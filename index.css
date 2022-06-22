@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(50, 50, 159);
+    font-family: Montserrat, sans-serif
+    font-size: 26px;
+    font-weight: 400;
+}
+h2 {
+    color: rgb(50, 50, 159);
+    font-family: Montserrat, sans-serif
+    font-size: 22px;
+    font-weight: 400;
+}
+p, li {
+    color: rgb(51, 51, 51);
+    display: block;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
